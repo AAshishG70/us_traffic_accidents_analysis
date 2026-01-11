@@ -1,0 +1,2 @@
+# Ignore the data/ directory which contains the csv file.
+data/
