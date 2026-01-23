@@ -1,2 +1,6 @@
 # Ignore the data/ directory which contains the csv file.
 data/
+icons/
+
+US_Accidents_Cleaned_Tableau.csv
+
